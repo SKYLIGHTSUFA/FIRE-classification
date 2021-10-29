@@ -43,6 +43,9 @@ ____
 
 ##### Результаты
 
+:white_check_mark: [![with OpenCV](https://www.youtube.com/watch?v=-AsOU5seYpw)
+
+:white_check_mark:
 ###### Ссылки
 :black_medium_small_square: [AlexeyAB](https://github.com/AlexeyAB/darknet)
 :black_medium_small_square: [CUDA](https://developer.nvidia.com/cuda-downloads)
