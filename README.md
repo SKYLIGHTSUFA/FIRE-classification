@@ -9,6 +9,8 @@ ____
 
 :four: Pycharm with python = 3.7.1
 
+:five: OpenCv(last version)
+
 
 ### АВТОРЫ
 - [X] Программисты
