@@ -8,6 +8,8 @@ ____
 :three: Darknet
 
 :four: Pycharm with python = 3.7.1
+
+
 :white_check_mark: Это уже сделано
 
 :negative_squared_cross_mark: Я не буду это делать    
