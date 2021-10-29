@@ -41,7 +41,9 @@ ____
 
 ____
 
-##### Ссылки
+##### Результаты
+
+###### Ссылки
 :black_medium_small_square: [AlexeyAB](https://github.com/AlexeyAB/darknet)
 :black_medium_small_square: [CUDA](https://developer.nvidia.com/cuda-downloads)
 :black_medium_small_square: [Cudnn](https://developer.nvidia.com/cudnn-download-survey)
