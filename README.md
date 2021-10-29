@@ -43,7 +43,7 @@ ____
 
 ##### Результаты
 
-:white_check_mark: [![With openCV](https://www.youtube.com/watch?v=-AsOU5seYpw)](https://www.youtube.com/watch?v=-AsOU5seYpw)
+:white_check_mark: [![With openCV](https://github.com/SKYLIGHTSUFA/FIRE-classification/blob/main/with_OpenCV.jpg?raw=true)](https://www.youtube.com/watch?v=-AsOU5seYpw)
 
 :white_check_mark:
 ###### Ссылки
