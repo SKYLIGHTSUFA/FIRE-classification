@@ -22,6 +22,8 @@ ____
     - [X] Шагалиев Роман Данифович
     - [X] Булатов Тагир Рустемович
 
+### Ссылки
+:black_medium_small_square: [AlexeyAB](https://github.com/AlexeyAB/darknet)
 
 
 :white_check_mark: Это уже сделано
