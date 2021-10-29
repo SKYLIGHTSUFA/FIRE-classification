@@ -26,7 +26,7 @@ ____
 
 - Запустить обучение.
     - Находиться в репозитории, где находится darknet
-    - в powershell  __.\darknet classifier train .\___"name your folder"___\"name your *.data file".data .\name your folder\name your *.data file.cfg
+    - в powershell  __.\darknet classifier train .\__ ___"name your folder"___ \___"name your *.data file"___.data .\name your folder\name your *.data file.cfg
 ____
 
 #### АВТОРЫ
