@@ -9,10 +9,13 @@ ____
 
 :four: Pycharm with python = 3.7.1
 
-:five: OpenCv(last version)
+:five: OpenCV(last version)
 
+____
 
-### АВТОРЫ
+### План работы
+
+#### АВТОРЫ
 - [X] Программисты
     - [X] Насыров Булат Ахатович
     - [X] Фаткуллин Ильназ Жамилович
