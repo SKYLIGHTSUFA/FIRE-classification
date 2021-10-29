@@ -43,7 +43,7 @@ ____
 
 ##### Результаты
 
-:white_check_mark: [![Тут текст](https://www.youtube.com/watch?v=-AsOU5seYpw)](https://www.youtube.com/watch?v=-AsOU5seYpw)
+:white_check_mark: [![With openCV](https://www.youtube.com/watch?v=-AsOU5seYpw)](https://www.youtube.com/watch?v=-AsOU5seYpw)
 
 :white_check_mark:
 ###### Ссылки
