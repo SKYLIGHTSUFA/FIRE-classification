@@ -20,12 +20,13 @@ ____
 
 :arrow_right: 80% изображений для обучение, остальные - для тестирования
 
-:arrow_right: Изменить файлы `*.labels,` `*.name` `.*cfg`
+:fast_forward: Изменить файлы `*.labels,` `*.name` `.*cfg`
 
 :fast_forward: ~~*Скачать или*~~ скопировать данные в файлах в свои ___*.labels *.name .*cfg___ файлы
 
 - Запустить обучение.
     - Находиться в репозитории, где находится darknet
+    - в powershell  __.\darknet classifier train .\"name your folder"\"name your *.data file".data .\name your folder\name your *.data file.cfg
 ____
 
 #### АВТОРЫ
