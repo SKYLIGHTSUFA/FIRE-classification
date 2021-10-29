@@ -1,0 +1,7 @@
+classes= 2
+train  = train.list
+valid  = test.list
+labels = cifar.labels
+names  = cifar.names
+backup = buckup
+top=1
