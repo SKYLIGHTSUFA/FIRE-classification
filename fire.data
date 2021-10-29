@@ -1,7 +1,0 @@
-classes= 2
-train  = human_pose/train.list
-valid  = human_pose/test.list
-labels = human_pose/cifar.labels
-names  = human_pose/cifar.names
-backup = human_pose/buckup
-top=1
