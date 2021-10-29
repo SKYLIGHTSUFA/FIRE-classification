@@ -45,7 +45,7 @@ ____
 :black_medium_small_square: [AlexeyAB](https://github.com/AlexeyAB/darknet)
 :black_medium_small_square: [CUDA](https://developer.nvidia.com/cuda-downloads)
 :black_medium_small_square: [Cudnn](https://developer.nvidia.com/cudnn-download-survey)
-:black_medium_small_square: [OpenCv](https://docs.opencv.org/4.5.3/d3/d52/tutorial_windows_install.html)
+:black_medium_small_square: [OpenCV](https://docs.opencv.org/4.5.3/d3/d52/tutorial_windows_install.html)
 :black_medium_small_square: [Python](https://www.python.org/downloads/release/python-371/)
 :black_medium_small_square: [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
 
